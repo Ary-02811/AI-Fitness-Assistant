@@ -2,7 +2,7 @@ AI Fitness Assistant
 
 An AI-powered fitness assistant built using Python, OpenCV, and MediaPipe that can track body movements and count exercises in real time through a webcam.
 
-Features
+Features : 
 Real-time body pose detection
 Exercise repetition counter
 Angle calculation for posture tracking
@@ -20,7 +20,7 @@ How It Works
 The program uses MediaPipe Pose Estimation to detect body landmarks from a webcam feed.
 Using those landmarks, the assistant calculates joint angles and tracks exercise movement patterns to count repetitions accurately.
 
-Project Structure
+Project Structure :
 AI-Fitness-Assistant/
 │
 ├── main.py
@@ -60,6 +60,6 @@ Pose estimation using MediaPipe
 Real-time video processing
 Python project structuring
 Git and GitHub workflow
-Author
 
+Author :
 Aryan Pillai
